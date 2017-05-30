@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2C15DE0FB1D88E9439E3CCD6CE0CBE1C1B422C44",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2C15DE0FB1D88E9439E3CCD6CE0CBE1C1B422C44" : 9223372036854775807,
+    "511FD5CF7C69545E2D5B0133C5A01F6C520F5CC1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "78032DA6-9A75-4955-9FC7-A63ADAA7ECBD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2C15DE0FB1D88E9439E3CCD6CE0CBE1C1B422C44" : "C++%20Folder\/",
+    "511FD5CF7C69545E2D5B0133C5A01F6C520F5CC1" : "workspace\/Recursion\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FirstAfternoonCPlusPlus",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FirstAfternoonCPlusPlus\/FirstAfternoonCPlusPlus.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MarkGrayson\/C-Folder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2C15DE0FB1D88E9439E3CCD6CE0CBE1C1B422C44"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MarkGrayson\/Recursion.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "511FD5CF7C69545E2D5B0133C5A01F6C520F5CC1"
+    }
+  ]
+}
